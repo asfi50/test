@@ -9,7 +9,7 @@
 
   "download": "https://drive.google.com/uc?id=13fnbgUbDolWcRqfI7e0eEnyM3Mz7G00u&export=download",
   
-  "website": "https://youtu.be/Ap_0Kiiu-oI",
+  "website": "https://youtu.be/Aq_0Kiiu-oI",
   
   "uninstall": true,
   
@@ -20,6 +20,6 @@
   },
 
   "versionName": "3.0",
-  "versionCode": 4,
+  "versionCode": 3,
   "force": true
 }
